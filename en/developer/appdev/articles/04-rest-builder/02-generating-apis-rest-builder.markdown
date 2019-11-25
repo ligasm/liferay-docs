@@ -22,7 +22,7 @@ app:
 
 4.  Create the `*-api` and `*-impl` projects with the usual 
     files (`build.gradle`, `bnd.bnd`). Also create a `rest-config.yaml` with the 
-    author, paths, and packages. For example, here's the `rest-config.yaml` for 
+    author, paths, and packages in the `*-impl` module. For example, here's the `rest-config.yaml` for 
     Liferay's `headless-delivery` API: 
 
     ```yaml
